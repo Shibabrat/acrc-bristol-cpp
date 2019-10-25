@@ -1,15 +1,16 @@
 ---
+title: "University of Bristol workshop on beginning C++"
 output:
-  md_document:
-    toc: yes
-    variant: markdown_github
   html_document:
     theme: united
     toc: yes
+  md_document:
+    toc: yes
+    variant: markdown_github
   pdf_document:
     highlight: zenburn
     toc: yes
 ---
-## University of Bristol workshop on beginning C++
+## Course material
 
 

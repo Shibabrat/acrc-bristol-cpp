@@ -1,4 +1,4 @@
--   [University of Bristol workshop on beginning C++](#university-of-bristol-workshop-on-beginning-c)
+-   [Course material](#course-material)
 
-University of Bristol workshop on beginning C++
------------------------------------------------
+Course material
+---------------
