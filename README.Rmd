@@ -1,7 +1,14 @@
 ---
 output:
-  pdf_document: default
-  html_document: default
+  md_document:
+    toc: yes
+    variant: markdown_github
+  html_document:
+    theme: united
+    toc: yes
+  pdf_document:
+    highlight: zenburn
+    toc: yes
 ---
 ## University of Bristol workshop on beginning C++
 
